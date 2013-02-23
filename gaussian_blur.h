@@ -1,8 +1,10 @@
 /**
  * gaussian_blur.h
+ *
+ * 'Gaussian Blur' alogrithm base on OpenCV.
  */
 #ifndef GAUSSIAN_BLUR_H
-#define AGUSSIAN_BLUR_H
+#define GAUSSIAN_BLUR_H
 
 #include <opencv/cv.h>
 
